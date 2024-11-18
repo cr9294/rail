@@ -1,0 +1,8 @@
+E:\CV\rail\datasets/images/train/100.jpg
+E:\CV\rail\datasets/images/train/200.jpg
+E:\CV\rail\datasets/images/train/400.jpg
+E:\CV\rail\datasets/images/train/500.jpg
+E:\CV\rail\datasets/images/train/600.jpg
+E:\CV\rail\datasets/images/train/700.jpg
+E:\CV\rail\datasets/images/train/800.jpg
+E:\CV\rail\datasets/images/train/900.jpg
