@@ -1,1 +1,9 @@
-E:\CV\rail\datasets/images/val/1000.jpg
+E:\CV\rail\datasets/images/val/20.jpg
+E:\CV\rail\datasets/images/val/250.jpg
+E:\CV\rail\datasets/images/val/320.jpg
+E:\CV\rail\datasets/images/val/330.jpg
+E:\CV\rail\datasets/images/val/390.jpg
+E:\CV\rail\datasets/images/val/440.jpg
+E:\CV\rail\datasets/images/val/780.jpg
+E:\CV\rail\datasets/images/val/800.jpg
+E:\CV\rail\datasets/images/val/830.jpg

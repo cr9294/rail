@@ -1,1 +1,11 @@
-E:\CV\rail\datasets/images/test/300.jpg
+E:\CV\rail\datasets/images/test/150.jpg
+E:\CV\rail\datasets/images/test/240.jpg
+E:\CV\rail\datasets/images/test/270.jpg
+E:\CV\rail\datasets/images/test/360.jpg
+E:\CV\rail\datasets/images/test/550.jpg
+E:\CV\rail\datasets/images/test/620.jpg
+E:\CV\rail\datasets/images/test/690.jpg
+E:\CV\rail\datasets/images/test/720.jpg
+E:\CV\rail\datasets/images/test/840.jpg
+E:\CV\rail\datasets/images/test/860.jpg
+E:\CV\rail\datasets/images/test/880.jpg

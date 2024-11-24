@@ -3,7 +3,7 @@ import numpy as np
 from ultralytics import YOLO
 
 # 加载预训练 YOLO 模型
-model = YOLO("runs/detect/exp/weights/best.pt")  # 确保模型文件路径正确
+model = YOLO("runs/detect/exp2/weights/best.pt")  # 确保模型文件路径正确
 
 # 视频路径
 video_path = "./data/part-2.mp4"
