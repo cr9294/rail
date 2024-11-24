@@ -179,7 +179,7 @@
     "frame_id": 23,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -554,7 +554,7 @@
   {
     "frame_id": 70,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -570,7 +570,7 @@
   {
     "frame_id": 72,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -578,7 +578,7 @@
   {
     "frame_id": 73,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -602,7 +602,7 @@
   {
     "frame_id": 76,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -610,7 +610,7 @@
   {
     "frame_id": 77,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -698,7 +698,7 @@
   {
     "frame_id": 88,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -706,7 +706,7 @@
   {
     "frame_id": 89,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -714,7 +714,7 @@
   {
     "frame_id": 90,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -730,7 +730,7 @@
   {
     "frame_id": 92,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -738,7 +738,7 @@
   {
     "frame_id": 93,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -746,7 +746,7 @@
   {
     "frame_id": 94,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -754,7 +754,7 @@
   {
     "frame_id": 95,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -762,7 +762,7 @@
   {
     "frame_id": 96,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -770,7 +770,7 @@
   {
     "frame_id": 97,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -778,7 +778,7 @@
   {
     "frame_id": 98,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -786,7 +786,7 @@
   {
     "frame_id": 99,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -794,7 +794,7 @@
   {
     "frame_id": 100,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -802,7 +802,7 @@
   {
     "frame_id": 101,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -810,7 +810,7 @@
   {
     "frame_id": 102,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -818,7 +818,7 @@
   {
     "frame_id": 103,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -826,7 +826,7 @@
   {
     "frame_id": 104,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -834,7 +834,7 @@
   {
     "frame_id": 105,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -842,7 +842,7 @@
   {
     "frame_id": 106,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -850,7 +850,7 @@
   {
     "frame_id": 107,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -858,7 +858,7 @@
   {
     "frame_id": 108,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -866,7 +866,7 @@
   {
     "frame_id": 109,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -874,7 +874,7 @@
   {
     "frame_id": 110,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -882,7 +882,7 @@
   {
     "frame_id": 111,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -890,7 +890,7 @@
   {
     "frame_id": 112,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -898,7 +898,7 @@
   {
     "frame_id": 113,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -906,7 +906,7 @@
   {
     "frame_id": 114,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -914,7 +914,7 @@
   {
     "frame_id": 115,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -922,7 +922,7 @@
   {
     "frame_id": 116,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -930,7 +930,7 @@
   {
     "frame_id": 117,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -938,7 +938,7 @@
   {
     "frame_id": 118,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -946,7 +946,7 @@
   {
     "frame_id": 119,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -954,7 +954,7 @@
   {
     "frame_id": 120,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -962,7 +962,7 @@
   {
     "frame_id": 121,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -970,7 +970,7 @@
   {
     "frame_id": 122,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -978,7 +978,7 @@
   {
     "frame_id": 123,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -986,7 +986,7 @@
   {
     "frame_id": 124,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -994,7 +994,7 @@
   {
     "frame_id": 125,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1002,7 +1002,7 @@
   {
     "frame_id": 126,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1010,7 +1010,7 @@
   {
     "frame_id": 127,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1018,7 +1018,7 @@
   {
     "frame_id": 128,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1026,7 +1026,7 @@
   {
     "frame_id": 129,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1034,7 +1034,7 @@
   {
     "frame_id": 130,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1042,7 +1042,7 @@
   {
     "frame_id": 131,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1050,7 +1050,7 @@
   {
     "frame_id": 132,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1058,7 +1058,7 @@
   {
     "frame_id": 133,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1066,7 +1066,7 @@
   {
     "frame_id": 134,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1074,7 +1074,7 @@
   {
     "frame_id": 135,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1082,7 +1082,7 @@
   {
     "frame_id": 136,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1090,7 +1090,7 @@
   {
     "frame_id": 137,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1098,7 +1098,7 @@
   {
     "frame_id": 138,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1106,7 +1106,7 @@
   {
     "frame_id": 139,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1114,7 +1114,7 @@
   {
     "frame_id": 140,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1122,7 +1122,7 @@
   {
     "frame_id": 141,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1130,7 +1130,7 @@
   {
     "frame_id": 142,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1138,7 +1138,7 @@
   {
     "frame_id": 143,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1146,7 +1146,7 @@
   {
     "frame_id": 144,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1154,7 +1154,7 @@
   {
     "frame_id": 145,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1162,7 +1162,7 @@
   {
     "frame_id": 146,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1170,7 +1170,7 @@
   {
     "frame_id": 147,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1178,7 +1178,7 @@
   {
     "frame_id": 148,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1186,7 +1186,7 @@
   {
     "frame_id": 149,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1194,7 +1194,7 @@
   {
     "frame_id": 150,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1202,7 +1202,7 @@
   {
     "frame_id": 151,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1210,7 +1210,7 @@
   {
     "frame_id": 152,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1218,7 +1218,7 @@
   {
     "frame_id": 153,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1226,7 +1226,7 @@
   {
     "frame_id": 154,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1234,7 +1234,7 @@
   {
     "frame_id": 155,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1242,7 +1242,7 @@
   {
     "frame_id": 156,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1250,7 +1250,7 @@
   {
     "frame_id": 157,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1258,7 +1258,7 @@
   {
     "frame_id": 158,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1266,7 +1266,7 @@
   {
     "frame_id": 159,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1274,7 +1274,7 @@
   {
     "frame_id": 160,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1282,7 +1282,7 @@
   {
     "frame_id": 161,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1290,7 +1290,7 @@
   {
     "frame_id": 162,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1298,7 +1298,7 @@
   {
     "frame_id": 163,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1306,7 +1306,7 @@
   {
     "frame_id": 164,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1314,7 +1314,7 @@
   {
     "frame_id": 165,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1322,7 +1322,7 @@
   {
     "frame_id": 166,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1330,7 +1330,7 @@
   {
     "frame_id": 167,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1338,7 +1338,7 @@
   {
     "frame_id": 168,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1346,7 +1346,7 @@
   {
     "frame_id": 169,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1354,7 +1354,7 @@
   {
     "frame_id": 170,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1362,7 +1362,7 @@
   {
     "frame_id": 171,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1370,7 +1370,7 @@
   {
     "frame_id": 172,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1378,7 +1378,7 @@
   {
     "frame_id": 173,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1386,7 +1386,7 @@
   {
     "frame_id": 174,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1394,7 +1394,7 @@
   {
     "frame_id": 175,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1402,7 +1402,7 @@
   {
     "frame_id": 176,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1410,7 +1410,7 @@
   {
     "frame_id": 177,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1418,7 +1418,7 @@
   {
     "frame_id": 178,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1426,7 +1426,7 @@
   {
     "frame_id": 179,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -1434,7 +1434,7 @@
   {
     "frame_id": 180,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2018,7 +2018,7 @@
   {
     "frame_id": 253,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2026,7 +2026,7 @@
   {
     "frame_id": 254,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2034,7 +2034,7 @@
   {
     "frame_id": 255,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2042,7 +2042,7 @@
   {
     "frame_id": 256,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2050,7 +2050,7 @@
   {
     "frame_id": 257,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2058,7 +2058,7 @@
   {
     "frame_id": 258,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2066,7 +2066,7 @@
   {
     "frame_id": 259,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2074,7 +2074,7 @@
   {
     "frame_id": 260,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2082,7 +2082,7 @@
   {
     "frame_id": 261,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2090,7 +2090,7 @@
   {
     "frame_id": 262,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2098,7 +2098,7 @@
   {
     "frame_id": 263,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2106,7 +2106,7 @@
   {
     "frame_id": 264,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2114,7 +2114,7 @@
   {
     "frame_id": 265,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2122,7 +2122,7 @@
   {
     "frame_id": 266,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2130,7 +2130,7 @@
   {
     "frame_id": 267,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2138,7 +2138,7 @@
   {
     "frame_id": 268,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2146,7 +2146,7 @@
   {
     "frame_id": 269,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2154,7 +2154,7 @@
   {
     "frame_id": 270,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2162,7 +2162,7 @@
   {
     "frame_id": 271,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2170,7 +2170,7 @@
   {
     "frame_id": 272,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2178,7 +2178,7 @@
   {
     "frame_id": 273,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2186,7 +2186,7 @@
   {
     "frame_id": 274,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2194,7 +2194,7 @@
   {
     "frame_id": 275,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2202,7 +2202,7 @@
   {
     "frame_id": 276,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2210,7 +2210,7 @@
   {
     "frame_id": 277,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2218,7 +2218,7 @@
   {
     "frame_id": 278,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2226,7 +2226,7 @@
   {
     "frame_id": 279,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2234,7 +2234,7 @@
   {
     "frame_id": 280,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2242,7 +2242,7 @@
   {
     "frame_id": 281,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2250,7 +2250,7 @@
   {
     "frame_id": 282,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2258,7 +2258,7 @@
   {
     "frame_id": 283,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2266,7 +2266,7 @@
   {
     "frame_id": 284,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2274,7 +2274,7 @@
   {
     "frame_id": 285,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2282,7 +2282,7 @@
   {
     "frame_id": 286,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2290,7 +2290,7 @@
   {
     "frame_id": 287,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2298,7 +2298,7 @@
   {
     "frame_id": 288,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2306,7 +2306,7 @@
   {
     "frame_id": 289,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2314,7 +2314,7 @@
   {
     "frame_id": 290,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2322,7 +2322,7 @@
   {
     "frame_id": 291,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2330,7 +2330,7 @@
   {
     "frame_id": 292,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2338,7 +2338,7 @@
   {
     "frame_id": 293,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2346,7 +2346,7 @@
   {
     "frame_id": 294,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2354,7 +2354,7 @@
   {
     "frame_id": 295,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2362,7 +2362,7 @@
   {
     "frame_id": 296,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2370,7 +2370,7 @@
   {
     "frame_id": 297,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2378,7 +2378,7 @@
   {
     "frame_id": 298,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2386,7 +2386,7 @@
   {
     "frame_id": 299,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2394,7 +2394,7 @@
   {
     "frame_id": 300,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2402,7 +2402,7 @@
   {
     "frame_id": 301,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2410,7 +2410,7 @@
   {
     "frame_id": 302,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2418,7 +2418,7 @@
   {
     "frame_id": 303,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2426,7 +2426,7 @@
   {
     "frame_id": 304,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2434,7 +2434,7 @@
   {
     "frame_id": 305,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2442,7 +2442,7 @@
   {
     "frame_id": 306,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2450,7 +2450,7 @@
   {
     "frame_id": 307,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2458,7 +2458,7 @@
   {
     "frame_id": 308,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2466,7 +2466,7 @@
   {
     "frame_id": 309,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2474,7 +2474,7 @@
   {
     "frame_id": 310,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2482,7 +2482,7 @@
   {
     "frame_id": 311,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2490,7 +2490,7 @@
   {
     "frame_id": 312,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2498,7 +2498,7 @@
   {
     "frame_id": 313,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2506,7 +2506,7 @@
   {
     "frame_id": 314,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2514,7 +2514,7 @@
   {
     "frame_id": 315,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2522,7 +2522,7 @@
   {
     "frame_id": 316,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2530,7 +2530,7 @@
   {
     "frame_id": 317,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2538,7 +2538,7 @@
   {
     "frame_id": 318,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2546,7 +2546,7 @@
   {
     "frame_id": 319,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2554,7 +2554,7 @@
   {
     "frame_id": 320,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2562,7 +2562,7 @@
   {
     "frame_id": 321,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2570,7 +2570,7 @@
   {
     "frame_id": 322,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2578,7 +2578,7 @@
   {
     "frame_id": 323,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2586,7 +2586,7 @@
   {
     "frame_id": 324,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2594,7 +2594,7 @@
   {
     "frame_id": 325,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2602,7 +2602,7 @@
   {
     "frame_id": 326,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2610,7 +2610,7 @@
   {
     "frame_id": 327,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2618,7 +2618,7 @@
   {
     "frame_id": 328,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2626,7 +2626,7 @@
   {
     "frame_id": 329,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2634,7 +2634,7 @@
   {
     "frame_id": 330,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2642,7 +2642,7 @@
   {
     "frame_id": 331,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2650,7 +2650,7 @@
   {
     "frame_id": 332,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2658,7 +2658,7 @@
   {
     "frame_id": 333,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2666,7 +2666,7 @@
   {
     "frame_id": 334,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2674,7 +2674,7 @@
   {
     "frame_id": 335,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2682,7 +2682,7 @@
   {
     "frame_id": 336,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2690,7 +2690,7 @@
   {
     "frame_id": 337,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2698,7 +2698,7 @@
   {
     "frame_id": 338,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2706,7 +2706,7 @@
   {
     "frame_id": 339,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2714,7 +2714,7 @@
   {
     "frame_id": 340,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2722,7 +2722,7 @@
   {
     "frame_id": 341,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2730,7 +2730,7 @@
   {
     "frame_id": 342,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2738,7 +2738,7 @@
   {
     "frame_id": 343,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2746,7 +2746,7 @@
   {
     "frame_id": 344,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2754,7 +2754,7 @@
   {
     "frame_id": 345,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2762,7 +2762,7 @@
   {
     "frame_id": 346,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2770,7 +2770,7 @@
   {
     "frame_id": 347,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2778,7 +2778,7 @@
   {
     "frame_id": 348,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2786,7 +2786,7 @@
   {
     "frame_id": 349,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2794,7 +2794,7 @@
   {
     "frame_id": 350,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2802,7 +2802,7 @@
   {
     "frame_id": 351,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2810,7 +2810,7 @@
   {
     "frame_id": 352,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2818,7 +2818,7 @@
   {
     "frame_id": 353,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2826,7 +2826,7 @@
   {
     "frame_id": 354,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2834,7 +2834,7 @@
   {
     "frame_id": 355,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2842,7 +2842,7 @@
   {
     "frame_id": 356,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2850,7 +2850,7 @@
   {
     "frame_id": 357,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2858,7 +2858,7 @@
   {
     "frame_id": 358,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2866,7 +2866,7 @@
   {
     "frame_id": 359,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2874,7 +2874,7 @@
   {
     "frame_id": 360,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2882,7 +2882,7 @@
   {
     "frame_id": 361,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2890,7 +2890,7 @@
   {
     "frame_id": 362,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2898,7 +2898,7 @@
   {
     "frame_id": 363,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2906,7 +2906,7 @@
   {
     "frame_id": 364,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2914,7 +2914,7 @@
   {
     "frame_id": 365,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2922,7 +2922,7 @@
   {
     "frame_id": 366,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2930,7 +2930,7 @@
   {
     "frame_id": 367,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2938,7 +2938,7 @@
   {
     "frame_id": 368,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -2946,7 +2946,7 @@
   {
     "frame_id": 369,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3242,7 +3242,7 @@
   {
     "frame_id": 406,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3250,7 +3250,7 @@
   {
     "frame_id": 407,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3258,7 +3258,7 @@
   {
     "frame_id": 408,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3266,7 +3266,7 @@
   {
     "frame_id": 409,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3274,7 +3274,7 @@
   {
     "frame_id": 410,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3282,7 +3282,7 @@
   {
     "frame_id": 411,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3290,7 +3290,7 @@
   {
     "frame_id": 412,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3298,7 +3298,7 @@
   {
     "frame_id": 413,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3306,7 +3306,7 @@
   {
     "frame_id": 414,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3314,7 +3314,7 @@
   {
     "frame_id": 415,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3322,7 +3322,7 @@
   {
     "frame_id": 416,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3330,7 +3330,7 @@
   {
     "frame_id": 417,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3338,7 +3338,7 @@
   {
     "frame_id": 418,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3346,7 +3346,7 @@
   {
     "frame_id": 419,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3354,7 +3354,7 @@
   {
     "frame_id": 420,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3362,7 +3362,7 @@
   {
     "frame_id": 421,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3370,7 +3370,7 @@
   {
     "frame_id": 422,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3378,7 +3378,7 @@
   {
     "frame_id": 423,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3386,7 +3386,7 @@
   {
     "frame_id": 424,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3394,7 +3394,7 @@
   {
     "frame_id": 425,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3402,7 +3402,7 @@
   {
     "frame_id": 426,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3410,7 +3410,7 @@
   {
     "frame_id": 427,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3418,7 +3418,7 @@
   {
     "frame_id": 428,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3426,7 +3426,7 @@
   {
     "frame_id": 429,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3434,7 +3434,7 @@
   {
     "frame_id": 430,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3442,7 +3442,7 @@
   {
     "frame_id": 431,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3450,7 +3450,7 @@
   {
     "frame_id": 432,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3458,7 +3458,7 @@
   {
     "frame_id": 433,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3466,7 +3466,7 @@
   {
     "frame_id": 434,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3474,7 +3474,7 @@
   {
     "frame_id": 435,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3482,7 +3482,7 @@
   {
     "frame_id": 436,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3490,7 +3490,7 @@
   {
     "frame_id": 437,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3498,7 +3498,7 @@
   {
     "frame_id": 438,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3506,7 +3506,7 @@
   {
     "frame_id": 439,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3514,7 +3514,7 @@
   {
     "frame_id": 440,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3522,7 +3522,7 @@
   {
     "frame_id": 441,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3530,7 +3530,7 @@
   {
     "frame_id": 442,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3538,7 +3538,7 @@
   {
     "frame_id": 443,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3546,7 +3546,7 @@
   {
     "frame_id": 444,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3554,7 +3554,7 @@
   {
     "frame_id": 445,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3562,7 +3562,7 @@
   {
     "frame_id": 446,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3570,7 +3570,7 @@
   {
     "frame_id": 447,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3578,7 +3578,7 @@
   {
     "frame_id": 448,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3586,7 +3586,7 @@
   {
     "frame_id": 449,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3594,7 +3594,7 @@
   {
     "frame_id": 450,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3602,7 +3602,7 @@
   {
     "frame_id": 451,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3610,7 +3610,7 @@
   {
     "frame_id": 452,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3618,7 +3618,7 @@
   {
     "frame_id": 453,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3626,7 +3626,7 @@
   {
     "frame_id": 454,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3634,7 +3634,7 @@
   {
     "frame_id": 455,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3642,7 +3642,7 @@
   {
     "frame_id": 456,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3650,7 +3650,7 @@
   {
     "frame_id": 457,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3658,7 +3658,7 @@
   {
     "frame_id": 458,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3666,7 +3666,7 @@
   {
     "frame_id": 459,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3674,7 +3674,7 @@
   {
     "frame_id": 460,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3682,7 +3682,7 @@
   {
     "frame_id": 461,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3690,7 +3690,7 @@
   {
     "frame_id": 462,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3698,7 +3698,7 @@
   {
     "frame_id": 463,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3706,7 +3706,7 @@
   {
     "frame_id": 464,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3714,7 +3714,7 @@
   {
     "frame_id": 465,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3722,7 +3722,7 @@
   {
     "frame_id": 466,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3730,7 +3730,7 @@
   {
     "frame_id": 467,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3738,7 +3738,7 @@
   {
     "frame_id": 468,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3746,7 +3746,7 @@
   {
     "frame_id": 469,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3754,7 +3754,7 @@
   {
     "frame_id": 470,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3762,7 +3762,7 @@
   {
     "frame_id": 471,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3770,7 +3770,7 @@
   {
     "frame_id": 472,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3778,7 +3778,7 @@
   {
     "frame_id": 473,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3786,7 +3786,7 @@
   {
     "frame_id": 474,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3922,7 +3922,7 @@
   {
     "frame_id": 491,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -3930,7 +3930,7 @@
   {
     "frame_id": 492,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4114,7 +4114,7 @@
   {
     "frame_id": 515,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4122,7 +4122,7 @@
   {
     "frame_id": 516,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4154,7 +4154,7 @@
   {
     "frame_id": 520,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4162,7 +4162,7 @@
   {
     "frame_id": 521,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4170,7 +4170,7 @@
   {
     "frame_id": 522,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4178,7 +4178,7 @@
   {
     "frame_id": 523,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4186,7 +4186,7 @@
   {
     "frame_id": 524,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4194,7 +4194,7 @@
   {
     "frame_id": 525,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4202,7 +4202,7 @@
   {
     "frame_id": 526,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4226,7 +4226,7 @@
   {
     "frame_id": 529,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4234,7 +4234,7 @@
   {
     "frame_id": 530,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4242,7 +4242,7 @@
   {
     "frame_id": 531,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4274,7 +4274,7 @@
   {
     "frame_id": 535,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4282,7 +4282,7 @@
   {
     "frame_id": 536,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4290,7 +4290,7 @@
   {
     "frame_id": 537,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4298,7 +4298,7 @@
   {
     "frame_id": 538,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4418,7 +4418,7 @@
   {
     "frame_id": 553,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4426,7 +4426,7 @@
   {
     "frame_id": 554,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4434,7 +4434,7 @@
   {
     "frame_id": 555,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4442,7 +4442,7 @@
   {
     "frame_id": 556,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4450,7 +4450,7 @@
   {
     "frame_id": 557,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4458,7 +4458,7 @@
   {
     "frame_id": 558,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4466,7 +4466,7 @@
   {
     "frame_id": 559,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4474,7 +4474,7 @@
   {
     "frame_id": 560,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4482,7 +4482,7 @@
   {
     "frame_id": 561,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4490,7 +4490,7 @@
   {
     "frame_id": 562,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4498,7 +4498,7 @@
   {
     "frame_id": 563,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4506,7 +4506,7 @@
   {
     "frame_id": 564,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4514,7 +4514,7 @@
   {
     "frame_id": 565,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4522,7 +4522,7 @@
   {
     "frame_id": 566,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4530,7 +4530,7 @@
   {
     "frame_id": 567,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4538,7 +4538,7 @@
   {
     "frame_id": 568,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4546,7 +4546,7 @@
   {
     "frame_id": 569,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4554,7 +4554,7 @@
   {
     "frame_id": 570,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4562,7 +4562,7 @@
   {
     "frame_id": 571,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4570,7 +4570,7 @@
   {
     "frame_id": 572,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4578,7 +4578,7 @@
   {
     "frame_id": 573,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4586,7 +4586,7 @@
   {
     "frame_id": 574,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4594,7 +4594,7 @@
   {
     "frame_id": 575,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4602,7 +4602,7 @@
   {
     "frame_id": 576,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4610,7 +4610,7 @@
   {
     "frame_id": 577,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4618,7 +4618,7 @@
   {
     "frame_id": 578,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4626,7 +4626,7 @@
   {
     "frame_id": 579,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4634,7 +4634,7 @@
   {
     "frame_id": 580,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4642,7 +4642,7 @@
   {
     "frame_id": 581,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4650,7 +4650,7 @@
   {
     "frame_id": 582,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4658,7 +4658,7 @@
   {
     "frame_id": 583,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4666,7 +4666,7 @@
   {
     "frame_id": 584,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4674,7 +4674,7 @@
   {
     "frame_id": 585,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4682,7 +4682,7 @@
   {
     "frame_id": 586,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4690,7 +4690,7 @@
   {
     "frame_id": 587,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4698,7 +4698,7 @@
   {
     "frame_id": 588,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4706,7 +4706,7 @@
   {
     "frame_id": 589,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4714,7 +4714,7 @@
   {
     "frame_id": 590,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4722,7 +4722,7 @@
   {
     "frame_id": 591,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4730,7 +4730,7 @@
   {
     "frame_id": 592,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4738,7 +4738,7 @@
   {
     "frame_id": 593,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4746,7 +4746,7 @@
   {
     "frame_id": 594,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4754,7 +4754,7 @@
   {
     "frame_id": 595,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4762,7 +4762,7 @@
   {
     "frame_id": 596,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4770,7 +4770,7 @@
   {
     "frame_id": 597,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4778,7 +4778,7 @@
   {
     "frame_id": 598,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4786,7 +4786,7 @@
   {
     "frame_id": 599,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4794,7 +4794,7 @@
   {
     "frame_id": 600,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4802,7 +4802,7 @@
   {
     "frame_id": 601,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4810,7 +4810,7 @@
   {
     "frame_id": 602,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4818,7 +4818,7 @@
   {
     "frame_id": 603,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4826,7 +4826,7 @@
   {
     "frame_id": 604,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4834,7 +4834,7 @@
   {
     "frame_id": 605,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4842,7 +4842,7 @@
   {
     "frame_id": 606,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4850,7 +4850,7 @@
   {
     "frame_id": 607,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4858,7 +4858,7 @@
   {
     "frame_id": 608,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4866,7 +4866,7 @@
   {
     "frame_id": 609,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4874,7 +4874,7 @@
   {
     "frame_id": 610,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4898,7 +4898,7 @@
   {
     "frame_id": 613,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4931,7 +4931,7 @@
     "frame_id": 617,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -4939,7 +4939,7 @@
     "frame_id": 618,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -4947,7 +4947,7 @@
     "frame_id": 619,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -4978,7 +4978,7 @@
   {
     "frame_id": 623,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4986,7 +4986,7 @@
   {
     "frame_id": 624,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -4994,7 +4994,7 @@
   {
     "frame_id": 625,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5002,7 +5002,7 @@
   {
     "frame_id": 626,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5010,7 +5010,7 @@
   {
     "frame_id": 627,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5018,7 +5018,7 @@
   {
     "frame_id": 628,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5026,7 +5026,7 @@
   {
     "frame_id": 629,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5034,7 +5034,7 @@
   {
     "frame_id": 630,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5042,7 +5042,7 @@
   {
     "frame_id": 631,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5050,7 +5050,7 @@
   {
     "frame_id": 632,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5058,7 +5058,7 @@
   {
     "frame_id": 633,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5066,7 +5066,7 @@
   {
     "frame_id": 634,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5074,7 +5074,7 @@
   {
     "frame_id": 635,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5082,7 +5082,7 @@
   {
     "frame_id": 636,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5090,7 +5090,7 @@
   {
     "frame_id": 637,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5098,7 +5098,7 @@
   {
     "frame_id": 638,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5106,7 +5106,7 @@
   {
     "frame_id": 639,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5114,7 +5114,7 @@
   {
     "frame_id": 640,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5122,7 +5122,7 @@
   {
     "frame_id": 641,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5130,7 +5130,7 @@
   {
     "frame_id": 642,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5138,7 +5138,7 @@
   {
     "frame_id": 643,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5146,7 +5146,7 @@
   {
     "frame_id": 644,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5154,7 +5154,7 @@
   {
     "frame_id": 645,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5162,7 +5162,7 @@
   {
     "frame_id": 646,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5170,7 +5170,7 @@
   {
     "frame_id": 647,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5178,7 +5178,7 @@
   {
     "frame_id": 648,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5186,7 +5186,7 @@
   {
     "frame_id": 649,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5194,7 +5194,7 @@
   {
     "frame_id": 650,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5202,7 +5202,7 @@
   {
     "frame_id": 651,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5210,7 +5210,7 @@
   {
     "frame_id": 652,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5218,7 +5218,7 @@
   {
     "frame_id": 653,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5226,7 +5226,7 @@
   {
     "frame_id": 654,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5234,7 +5234,7 @@
   {
     "frame_id": 655,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5242,7 +5242,7 @@
   {
     "frame_id": 656,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5250,7 +5250,7 @@
   {
     "frame_id": 657,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5258,7 +5258,7 @@
   {
     "frame_id": 658,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5266,7 +5266,7 @@
   {
     "frame_id": 659,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5274,7 +5274,7 @@
   {
     "frame_id": 660,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5282,7 +5282,7 @@
   {
     "frame_id": 661,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5290,7 +5290,7 @@
   {
     "frame_id": 662,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5298,7 +5298,7 @@
   {
     "frame_id": 663,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5306,7 +5306,7 @@
   {
     "frame_id": 664,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5314,7 +5314,7 @@
   {
     "frame_id": 665,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5322,7 +5322,7 @@
   {
     "frame_id": 666,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5330,7 +5330,7 @@
   {
     "frame_id": 667,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5338,7 +5338,7 @@
   {
     "frame_id": 668,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5346,7 +5346,7 @@
   {
     "frame_id": 669,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5354,7 +5354,7 @@
   {
     "frame_id": 670,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5362,7 +5362,7 @@
   {
     "frame_id": 671,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5370,7 +5370,7 @@
   {
     "frame_id": 672,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5378,7 +5378,7 @@
   {
     "frame_id": 673,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5386,7 +5386,7 @@
   {
     "frame_id": 674,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5394,7 +5394,7 @@
   {
     "frame_id": 675,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5402,7 +5402,7 @@
   {
     "frame_id": 676,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5410,7 +5410,7 @@
   {
     "frame_id": 677,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5418,7 +5418,7 @@
   {
     "frame_id": 678,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5426,7 +5426,7 @@
   {
     "frame_id": 679,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5939,7 +5939,7 @@
     "frame_id": 743,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -5947,7 +5947,7 @@
     "frame_id": 744,
     "track_status": {
       "track_1": "empty",
-      "track_2": "occupied",
+      "track_2": "empty",
       "track_3": "empty"
     }
   },
@@ -5986,7 +5986,7 @@
   {
     "frame_id": 749,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -5994,7 +5994,7 @@
   {
     "frame_id": 750,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6002,7 +6002,7 @@
   {
     "frame_id": 751,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6010,7 +6010,7 @@
   {
     "frame_id": 752,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6018,7 +6018,7 @@
   {
     "frame_id": 753,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6026,7 +6026,7 @@
   {
     "frame_id": 754,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6034,7 +6034,7 @@
   {
     "frame_id": 755,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6042,7 +6042,7 @@
   {
     "frame_id": 756,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6050,7 +6050,7 @@
   {
     "frame_id": 757,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6058,7 +6058,7 @@
   {
     "frame_id": 758,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6066,7 +6066,7 @@
   {
     "frame_id": 759,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6074,7 +6074,7 @@
   {
     "frame_id": 760,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6082,7 +6082,7 @@
   {
     "frame_id": 761,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6090,7 +6090,7 @@
   {
     "frame_id": 762,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6098,7 +6098,7 @@
   {
     "frame_id": 763,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6106,7 +6106,7 @@
   {
     "frame_id": 764,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6114,7 +6114,7 @@
   {
     "frame_id": 765,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6122,7 +6122,7 @@
   {
     "frame_id": 766,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6130,7 +6130,7 @@
   {
     "frame_id": 767,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6138,7 +6138,7 @@
   {
     "frame_id": 768,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6146,7 +6146,7 @@
   {
     "frame_id": 769,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6154,7 +6154,7 @@
   {
     "frame_id": 770,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6162,7 +6162,7 @@
   {
     "frame_id": 771,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6170,7 +6170,7 @@
   {
     "frame_id": 772,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6178,7 +6178,7 @@
   {
     "frame_id": 773,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6186,7 +6186,7 @@
   {
     "frame_id": 774,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6194,7 +6194,7 @@
   {
     "frame_id": 775,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6202,7 +6202,7 @@
   {
     "frame_id": 776,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6210,7 +6210,7 @@
   {
     "frame_id": 777,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6218,7 +6218,7 @@
   {
     "frame_id": 778,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6226,7 +6226,7 @@
   {
     "frame_id": 779,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6234,7 +6234,7 @@
   {
     "frame_id": 780,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6242,7 +6242,7 @@
   {
     "frame_id": 781,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6250,7 +6250,7 @@
   {
     "frame_id": 782,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6258,7 +6258,7 @@
   {
     "frame_id": 783,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6266,7 +6266,7 @@
   {
     "frame_id": 784,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6274,7 +6274,7 @@
   {
     "frame_id": 785,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6282,7 +6282,7 @@
   {
     "frame_id": 786,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6290,7 +6290,7 @@
   {
     "frame_id": 787,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6298,7 +6298,7 @@
   {
     "frame_id": 788,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6306,7 +6306,7 @@
   {
     "frame_id": 789,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6314,7 +6314,7 @@
   {
     "frame_id": 790,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6322,7 +6322,7 @@
   {
     "frame_id": 791,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6330,7 +6330,7 @@
   {
     "frame_id": 792,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6338,7 +6338,7 @@
   {
     "frame_id": 793,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6346,7 +6346,7 @@
   {
     "frame_id": 794,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6354,7 +6354,7 @@
   {
     "frame_id": 795,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6370,7 +6370,7 @@
   {
     "frame_id": 797,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6378,7 +6378,7 @@
   {
     "frame_id": 798,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6882,7 +6882,7 @@
   {
     "frame_id": 861,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6890,7 +6890,7 @@
   {
     "frame_id": 862,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6914,7 +6914,7 @@
   {
     "frame_id": 865,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6922,7 +6922,7 @@
   {
     "frame_id": 866,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6930,7 +6930,7 @@
   {
     "frame_id": 867,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6938,7 +6938,7 @@
   {
     "frame_id": 868,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -6986,7 +6986,7 @@
   {
     "frame_id": 874,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7010,7 +7010,7 @@
   {
     "frame_id": 877,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7018,7 +7018,7 @@
   {
     "frame_id": 878,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7026,7 +7026,7 @@
   {
     "frame_id": 879,
     "track_status": {
-      "track_1": "empty",
+      "track_1": "occupied",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7138,7 +7138,7 @@
   {
     "frame_id": 893,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7146,7 +7146,7 @@
   {
     "frame_id": 894,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7178,7 +7178,7 @@
   {
     "frame_id": 898,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7186,7 +7186,7 @@
   {
     "frame_id": 899,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7194,7 +7194,7 @@
   {
     "frame_id": 900,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7202,7 +7202,7 @@
   {
     "frame_id": 901,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7210,7 +7210,7 @@
   {
     "frame_id": 902,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7218,7 +7218,7 @@
   {
     "frame_id": 903,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7226,7 +7226,7 @@
   {
     "frame_id": 904,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7234,7 +7234,7 @@
   {
     "frame_id": 905,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7242,7 +7242,7 @@
   {
     "frame_id": 906,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7258,7 +7258,7 @@
   {
     "frame_id": 908,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7266,7 +7266,7 @@
   {
     "frame_id": 909,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7274,7 +7274,7 @@
   {
     "frame_id": 910,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7282,7 +7282,7 @@
   {
     "frame_id": 911,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7290,7 +7290,7 @@
   {
     "frame_id": 912,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7298,7 +7298,7 @@
   {
     "frame_id": 913,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7306,7 +7306,7 @@
   {
     "frame_id": 914,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7314,7 +7314,7 @@
   {
     "frame_id": 915,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7322,7 +7322,7 @@
   {
     "frame_id": 916,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7330,7 +7330,7 @@
   {
     "frame_id": 917,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7338,7 +7338,7 @@
   {
     "frame_id": 918,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7346,7 +7346,7 @@
   {
     "frame_id": 919,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7354,7 +7354,7 @@
   {
     "frame_id": 920,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7362,7 +7362,7 @@
   {
     "frame_id": 921,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7370,7 +7370,7 @@
   {
     "frame_id": 922,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7378,7 +7378,7 @@
   {
     "frame_id": 923,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7386,7 +7386,7 @@
   {
     "frame_id": 924,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7394,7 +7394,7 @@
   {
     "frame_id": 925,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7402,7 +7402,7 @@
   {
     "frame_id": 926,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7410,7 +7410,7 @@
   {
     "frame_id": 927,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7418,7 +7418,7 @@
   {
     "frame_id": 928,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7426,7 +7426,7 @@
   {
     "frame_id": 929,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7434,7 +7434,7 @@
   {
     "frame_id": 930,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7442,7 +7442,7 @@
   {
     "frame_id": 931,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7450,7 +7450,7 @@
   {
     "frame_id": 932,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7458,7 +7458,7 @@
   {
     "frame_id": 933,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7466,7 +7466,7 @@
   {
     "frame_id": 934,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7474,7 +7474,7 @@
   {
     "frame_id": 935,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7482,7 +7482,7 @@
   {
     "frame_id": 936,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7490,7 +7490,7 @@
   {
     "frame_id": 937,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7498,7 +7498,7 @@
   {
     "frame_id": 938,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7506,7 +7506,7 @@
   {
     "frame_id": 939,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7514,7 +7514,7 @@
   {
     "frame_id": 940,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7522,7 +7522,7 @@
   {
     "frame_id": 941,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -7530,7 +7530,7 @@
   {
     "frame_id": 942,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8282,7 +8282,7 @@
   {
     "frame_id": 1036,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8314,7 +8314,7 @@
   {
     "frame_id": 1040,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8322,7 +8322,7 @@
   {
     "frame_id": 1041,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8330,7 +8330,7 @@
   {
     "frame_id": 1042,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8338,7 +8338,7 @@
   {
     "frame_id": 1043,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8346,7 +8346,7 @@
   {
     "frame_id": 1044,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8354,7 +8354,7 @@
   {
     "frame_id": 1045,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8378,7 +8378,7 @@
   {
     "frame_id": 1048,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8386,7 +8386,7 @@
   {
     "frame_id": 1049,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8394,7 +8394,7 @@
   {
     "frame_id": 1050,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8402,7 +8402,7 @@
   {
     "frame_id": 1051,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8450,7 +8450,7 @@
   {
     "frame_id": 1057,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8458,7 +8458,7 @@
   {
     "frame_id": 1058,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8466,7 +8466,7 @@
   {
     "frame_id": 1059,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8474,7 +8474,7 @@
   {
     "frame_id": 1060,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8482,7 +8482,7 @@
   {
     "frame_id": 1061,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8490,7 +8490,7 @@
   {
     "frame_id": 1062,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8498,7 +8498,7 @@
   {
     "frame_id": 1063,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8506,7 +8506,7 @@
   {
     "frame_id": 1064,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8514,7 +8514,7 @@
   {
     "frame_id": 1065,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8522,7 +8522,7 @@
   {
     "frame_id": 1066,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8530,7 +8530,7 @@
   {
     "frame_id": 1067,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8538,7 +8538,7 @@
   {
     "frame_id": 1068,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8546,7 +8546,7 @@
   {
     "frame_id": 1069,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8554,7 +8554,7 @@
   {
     "frame_id": 1070,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8562,7 +8562,7 @@
   {
     "frame_id": 1071,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8570,7 +8570,7 @@
   {
     "frame_id": 1072,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8578,7 +8578,7 @@
   {
     "frame_id": 1073,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8586,7 +8586,7 @@
   {
     "frame_id": 1074,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8650,7 +8650,7 @@
   {
     "frame_id": 1082,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8658,7 +8658,7 @@
   {
     "frame_id": 1083,
     "track_status": {
-      "track_1": "occupied",
+      "track_1": "empty",
       "track_2": "empty",
       "track_3": "empty"
     }
@@ -8921,2286 +8921,6 @@
   },
   {
     "frame_id": 1116,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1117,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1118,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1119,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1120,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1121,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1122,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1123,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1124,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1125,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1126,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1127,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1128,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1129,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1130,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1131,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1132,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1133,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1134,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1135,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1136,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1137,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1138,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1139,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1140,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1141,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1142,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1143,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1144,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1145,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1146,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1147,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1148,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1149,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1150,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1151,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1152,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1153,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1154,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1155,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1156,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1157,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1158,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1159,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1160,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1161,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1162,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1163,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1164,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1165,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "occupied",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1166,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1167,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1168,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1169,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1170,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1171,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1172,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1173,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1174,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1175,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1176,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1177,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1178,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1179,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1180,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1181,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1182,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1183,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1184,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1185,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1186,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1187,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1188,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1189,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1190,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1191,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1192,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1193,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1194,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1195,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1196,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1197,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1198,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1199,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1200,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1201,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1202,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1203,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1204,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1205,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1206,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1207,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1208,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1209,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1210,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1211,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1212,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1213,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1214,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1215,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1216,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1217,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1218,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1219,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1220,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1221,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1222,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1223,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1224,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1225,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1226,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1227,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1228,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1229,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1230,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1231,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1232,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1233,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1234,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1235,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1236,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1237,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1238,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1239,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1240,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1241,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1242,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1243,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1244,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1245,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1246,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1247,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1248,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1249,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1250,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1251,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1252,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1253,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1254,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1255,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1256,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1257,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1258,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1259,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1260,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1261,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1262,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1263,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1264,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1265,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1266,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1267,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1268,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1269,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1270,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1271,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1272,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1273,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1274,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1275,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1276,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1277,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1278,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1279,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1280,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1281,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1282,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1283,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1284,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1285,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1286,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1287,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1288,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1289,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1290,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1291,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1292,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1293,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1294,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1295,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1296,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1297,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1298,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1299,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1300,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1301,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1302,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1303,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1304,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1305,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1306,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1307,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1308,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1309,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1310,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1311,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1312,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1313,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1314,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1315,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1316,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1317,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1318,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1319,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1320,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1321,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1322,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1323,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1324,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1325,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1326,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1327,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1328,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1329,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1330,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1331,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1332,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1333,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1334,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1335,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1336,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1337,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1338,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1339,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1340,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1341,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1342,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1343,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1344,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1345,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1346,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1347,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1348,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1349,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1350,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1351,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1352,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1353,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1354,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1355,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1356,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1357,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1358,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1359,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1360,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1361,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1362,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1363,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1364,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1365,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1366,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1367,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1368,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1369,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1370,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1371,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1372,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1373,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1374,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1375,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1376,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1377,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1378,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1379,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1380,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1381,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1382,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1383,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1384,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1385,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1386,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1387,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1388,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1389,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1390,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1391,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1392,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1393,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1394,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1395,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1396,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1397,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1398,
-    "track_status": {
-      "track_1": "occupied",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1399,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1400,
-    "track_status": {
-      "track_1": "empty",
-      "track_2": "empty",
-      "track_3": "empty"
-    }
-  },
-  {
-    "frame_id": 1401,
     "track_status": {
       "track_1": "empty",
       "track_2": "empty",
