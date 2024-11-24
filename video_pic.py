@@ -2,15 +2,17 @@ import cv2
 
 cap = cv2.VideoCapture("./data/part-2.mp4/")
 c = 1
-frameRate = 100  # 帧数截取间隔（每隔100帧截取一帧）
+frameRate = 10  # 帧数截取间隔（每隔100帧截取一帧）
 
-while (True):
+while True:
     ret, frame = cap.read()
     if ret:
-        if (c % frameRate == 0):
+        if c % frameRate == 0:
             print("开始截取视频第：" + str(c) + " 帧")
-            # 这里就可以做一些操作了：显示截取的帧图片、保存截取帧到本地
-            cv2.imwrite("./data/images/" + str(c) + '.jpg', frame)  # 这里是将截取的图像保存在本地
+            # 调整图像尺寸为 640x640
+            resized_frame = cv2.resize(frame, (640, 640))
+            # 保存调整后的图像
+            cv2.imwrite("./data/images/" + str(c) + '.jpg', resized_frame)
         c += 1
         cv2.waitKey(0)
     else:
